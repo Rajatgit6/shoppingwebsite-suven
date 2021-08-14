@@ -1,1 +1,1 @@
-
+web: gunicorn wrappers.wsgi
